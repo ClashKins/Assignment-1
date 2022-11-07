@@ -15,7 +15,7 @@ type Bio struct {
 }
 func main() {
 	s := Bio{
-		ID			: 1,
+		ID		: 1,
 		Nama		: "Stefanus",
 		Alamat		: "Depok",
 		Pekerjaan	: "Design Interior",
